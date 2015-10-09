@@ -1,9 +1,8 @@
 {
 "type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
 { "type": "Feature", "properties": { "SOG": 0, "COG": 305, "Heading": 511, "ROT": 128, "BaseDateTi": "2008\/12\/31", "Status": 0, "VoyageID": 1, "MMSI": 367146360, "ReceiverTy": "r", "ReceiverID": "01SSSP1" }, "geometry": { "type": "Point", "coordinates": [ -70.247618, 43.65742 ] } },
 { "type": "Feature", "properties": { "SOG": 0, "COG": 77, "Heading": 337, "ROT": 0, "BaseDateTi": "2008\/12\/31", "Status": 0, "VoyageID": 2, "MMSI": 351348000, "ReceiverTy": "b", "ReceiverID": "003669713" }, "geometry": { "type": "Point", "coordinates": [ -70.787233, 42.423117 ] } },
-{ "type": "Feature", "properties": { "SOG": 0, "COG": 20, "Heading": 511, "ROT": 128, "BaseDateTi": "2008\/12\/31", "Status": 0, "VoyageID": 3, "MMSI": 367175780, "ReceiverTy": "r", "ReceiverID": "01SCST1" }, "geometry": { "type": "Point", "coordinates": [ -71.388042, 41.803428 ] } }
-]
-}
+{ "type": "Feature", "properties": { "SOG": 0, "COG": 20, "Heading": 511, "ROT": 128, "BaseDateTi": "2008\/12\/31", "Status": 0, "VoyageID": 3, "MMSI": 367175780, "ReceiverTy": "r", "ReceiverID": "01SCST1" }, "geometry": { "type": "Point", "coordinates": [ -71.388042, 41.803428 ] } }]}
